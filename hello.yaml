@@ -2,3 +2,4 @@ name: Hello Yaci
 
 pipeline:
   - runs: echo Hello Yaci from remote pipeline!
+    image: alpine
